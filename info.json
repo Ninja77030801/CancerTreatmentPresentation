@@ -1,0 +1,9 @@
+{
+  "slide1": {
+    "p1": "Radiation can ionise the molecules in living cells, in particular the DNA molecule. This can affect the ability of the cell to grow and divide. This effect of radiation on living cells is made use of in the treatment of cancer. The process of using radiation in the treatment of cancer is called radiation therapy or radiotherapy. During radiotherapy both cancer cells and normal cells are damaged, however normal cells can recover from the effects of radiations.",
+    "list": [
+      "External radiation therapy",
+      "Internal radiation therapy",
+      "Systemic radiation therapy"
+    ]
+}
