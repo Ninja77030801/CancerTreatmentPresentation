@@ -1,10 +1,15 @@
 <script>
-  import * as info from './info.json';
+  import axios from 'axios'
   export default {
     name: "Slide1",
     mounted(){
-      this.paragraph = info.slide1.p1
-      this.list = info.slide1.list
+      axios({
+        method: "get",
+        url: "./info.json"
+      }).then(result => {
+        this.paragraph = result.data.slide1.p1
+        this.list = result.data.slide1.list
+      })
     }
     data(){
       return {
