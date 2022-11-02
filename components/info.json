@@ -6,5 +6,16 @@
       "Internal radiation therapy",
       "Systemic radiation therapy"
     ]
+  },
+  "slide2": {
+    "heading": "External Radiation Therapy",
+    "content": "In this type of treatment a machine is used to aim high energy radiation to the cancerous cells from outside the body. A machine called a linear accelerator (LINAC) is commonly used for this type of treatment.  In this device a highly energetic electron beam is used to generate x-rays or gamma rays through the collision with a suitable target material. The x-rays/gamma rays are then focused into a beam which targets the region requiring treatment. External radiation is used to treat most types of cancers for e.g. cancer of the breasts, brain, bladder, lungs etc. "
+  },
+  "slide3": {
+    "heading": "Internal Radiation Therapy",
+    "content": [
+      "In this type of therapy the radioactive material is sealed in needles, wires, seeds or flexible tubes and placed directly into or near the cancer cells. The radioactive isotopes used in internal radiation therapy are Iodine 125 or Iodine 131, Strontium 89, Phosphorous, Palladium, Cesium, Iridium or Cobalt. As the isotopes decay naturally, they emit radiation which targets the nearby cancer cells. Systemic radiation therapy",
+      "In this type of therapy a radioactive substance is swallowed or injected into the body and travels through the blood/circulatory system, locating and destroying the cancer cells. Systemic radiation therapy is used in the treatment of some types of thyroid cancer. The radioactive isotope, Iodine 131 is used. This is because thyroid cells naturally take up this radioactive isotope."
+    ]
   }
 }
