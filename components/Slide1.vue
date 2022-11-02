@@ -1,5 +1,5 @@
 <script>
-  import * as info from '../info';
+  import * as info from './info.json';
   export default {
     name: "Slide1",
     mounted(){
