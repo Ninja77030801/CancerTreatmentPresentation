@@ -40,9 +40,13 @@
 </script>
 <template>
   <h1>{{ heading }}</h1>
-  <p>{{ content }}</p>
-  <div>
-    <button></button>
-    <span>{{ CurrentItem }}</span>
-  </div>
+  <p>{{ content }}</p><br />
+  <ol id="steps-list">
+    <li v-for="step of steps">{{ step.content }}</li>
+  </ol>
 </template>
+<style>
+  #steps-list {
+    font-size: 10pt;
+  }
+</style>
