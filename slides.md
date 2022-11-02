@@ -24,3 +24,8 @@ css: unocss
 ---
 
 # Treating Cancer with radioactivity
+By Aarav Verma and Tarun Moizuddin
+
+---
+
+<Slide1 />
